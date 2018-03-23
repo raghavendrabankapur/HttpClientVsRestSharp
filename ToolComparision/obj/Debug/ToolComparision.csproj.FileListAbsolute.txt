@@ -1,0 +1,12 @@
+c:\users\raghavendra_bankapur\documents\visual studio 2015\Projects\ToolComparision\ToolComparision\obj\Debug\ToolComparision.csprojResolveAssemblyReference.cache
+c:\users\raghavendra_bankapur\documents\visual studio 2015\Projects\ToolComparision\ToolComparision\bin\Debug\ToolComparision.dll
+c:\users\raghavendra_bankapur\documents\visual studio 2015\Projects\ToolComparision\ToolComparision\bin\Debug\ToolComparision.pdb
+c:\users\raghavendra_bankapur\documents\visual studio 2015\Projects\ToolComparision\ToolComparision\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\raghavendra_bankapur\documents\visual studio 2015\Projects\ToolComparision\ToolComparision\bin\Debug\Newtonsoft.Json.dll
+c:\users\raghavendra_bankapur\documents\visual studio 2015\Projects\ToolComparision\ToolComparision\bin\Debug\RestSharp.dll
+c:\users\raghavendra_bankapur\documents\visual studio 2015\Projects\ToolComparision\ToolComparision\bin\Debug\System.ValueTuple.dll
+c:\users\raghavendra_bankapur\documents\visual studio 2015\Projects\ToolComparision\ToolComparision\bin\Debug\Newtonsoft.Json.xml
+c:\users\raghavendra_bankapur\documents\visual studio 2015\Projects\ToolComparision\ToolComparision\bin\Debug\System.ValueTuple.xml
+c:\users\raghavendra_bankapur\documents\visual studio 2015\Projects\ToolComparision\ToolComparision\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\raghavendra_bankapur\documents\visual studio 2015\Projects\ToolComparision\ToolComparision\obj\Debug\ToolComparision.dll
+c:\users\raghavendra_bankapur\documents\visual studio 2015\Projects\ToolComparision\ToolComparision\obj\Debug\ToolComparision.pdb
